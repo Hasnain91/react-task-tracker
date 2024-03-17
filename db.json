@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30PM",
+      "reminder": true
+    },
+    {
+      "id": "7c46",
+      "text": "Shop for Summers ",
+      "day": "30 March, 2024",
+      "reminder": false
+    }
+  ]
+}
